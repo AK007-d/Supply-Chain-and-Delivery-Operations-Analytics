@@ -1,0 +1,5 @@
+delivery_bucket,orders,avg_review,late_rate_pct,avg_order_value,avg_freight,satisfaction_rank
+1_Express (1-7 days),33526,4.41,0.3,122.71,17.78,1
+2_Standard (8-14 days),36190,4.29,0.9,139.32,23.59,2
+3_Slow (15-21 days),15264,4.1,4.2,147.3,26.77,3
+4_Very Slow (22+ days),10818,3.01,48.9,157.12,29.77,4
