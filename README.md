@@ -103,18 +103,22 @@ Overall on-time delivery rate: 93.2%. Average delay for late orders: 10.3 days. 
 Real business questions this analysis is designed to answer — with findings drawn directly from the data.
 
 **Q1. Which states have the worst SLA performance and what is the customer impact?**
+
 Alagoas (AL) leads with a 21.4% breach rate and average delivery of 24 days — the worst in the country. The 5 worst-performing states (AL, MA, SE, CE, PI) are all in Northeast Brazil and share delivery averages above 18 days. These states also carry the lowest review scores (3.83-3.99 vs national average of 4.16), confirming that SLA breaches directly drive customer dissatisfaction. A regional logistics partnership in the Northeast is the single highest-impact operational intervention available.
 
 **Q2. What is the revenue impact of slow delivery on customer satisfaction?**
+
 Customer review scores follow a clear tiered pattern by delivery speed: Express 1-7 days = 4.41, Standard 8-14 days = 4.29, Slow 15-21 days = 4.10, Very Slow 22+ days = 3.01. The drop from Slow to Very Slow is catastrophic — a 27% satisfaction collapse. Critically, 48.9% of Very Slow orders also breach SLA, meaning customers both wait longer than expected AND receive orders after the promised date. The 10,818 Very Slow orders represent the highest-priority intervention target.
 
 **Q3. Which sellers pose the greatest operational risk to the marketplace?**
 4 sellers classified as At Risk carry composite scores below 35, with late rates exceeding 40% and review scores below 3.5. While their combined revenue is only R$32,934 (0.25% of total), their operational failures generate negative reviews that damage the broader marketplace's 4.16 average. A 30-day performance improvement notice with clear SLA targets, backed by volume restriction if targets are not met, eliminates the brand risk while preserving seller relationships.
 
 **Q4. Which product categories should be prioritised for freight cost reduction?**
+
 Christmas Supplies (36.5%), Signaling & Security (30.4%), and Electronics (29.5%) carry the highest freight burden as a percentage of order value. These categories are price-sensitive — high freight costs reduce competitiveness against physical retail and other platforms. Category-specific carrier negotiations and minimum order thresholds for free freight are the most direct interventions to reduce the freight burden without impacting margin on the product side.
 
 **Q5. If only one operational change could be made this quarter, what delivers maximum impact?**
+
 Deploying a checkout-time flag for any order with estimated delivery exceeding 21 days. This single intervention addresses the root cause of the 3.01 satisfaction score in the Very Slow bucket — customers are not informed upfront that their order may take 22+ days, and when it arrives late on top of that, the experience is severely negative. A checkout warning with a compensation credit or express upgrade option resets customer expectations before purchase, projected to improve Very Slow bucket review scores from 3.01 to 3.5+ with no changes to logistics infrastructure.
 
 ---
@@ -122,19 +126,19 @@ Deploying a checkout-time flag for any order with estimated delivery exceeding 2
 ## Recommendations
 
 **Rec 1 — Northeast Brazil Regional Logistics Partnership**
-AL, MA, SE, CE, PI carry breach rates of 13-21% driven by weak last-mile infrastructure. Negotiate regional carrier partnerships or fulfilment centre agreements in Northeast Brazil. A 50% breach rate reduction in these 5 states recovers approximately 800 on-time orders per month.
+Negotiate regional carrier partnerships or fulfilment centre agreements in Northeast Brazil to address chronic SLA breach rates of 13-21% across AL, MA, SE, CE, and PI.
 
 **Rec 2 — Checkout Flag for 22+ Day Estimated Deliveries**
-48.9% of Very Slow orders are late and average a 3.01 review score. Implement a checkout-time warning for estimates exceeding 21 days with a compensation credit or express upgrade offer. Resets expectations before purchase rather than managing disappointment after delivery.
+Implement a checkout-time warning for estimates exceeding 21 days with a compensation credit or express upgrade offer to reset customer expectations before purchase.
 
 **Rec 3 — Freight Optimisation for High-Burden Categories**
-Christmas Supplies (36.5%), Electronics (29.5%), and Food & Drink (29.5%) carry freight exceeding 29% of order value. Negotiate category-specific carrier contracts and introduce minimum order thresholds for free freight to improve conversion and reduce effective price premium.
+Negotiate category-specific carrier contracts for Christmas Supplies, Electronics, and Food & Drink and introduce minimum order thresholds for free freight to improve conversion.
 
 **Rec 4 — At Risk Seller Intervention Programme**
-4 At Risk sellers carry 40%+ late rates and 3.5 or below review scores. Issue 30-day performance improvement notices with clear SLA targets. Restrict new order intake if targets are not met. Redistribute volume to Elite and Good tier sellers in the same categories.
+Issue 30-day performance improvement notices to 4 At Risk sellers with clear SLA targets. Restrict new order intake if targets are not met and redistribute volume to Elite tier sellers.
 
 **Rec 5 — Express Delivery Seller Incentive**
-Express delivery achieves 4.41 review scores vs 3.01 for Very Slow. Introduce a seller incentive tied to Express delivery share — sellers maintaining 30%+ Express orders receive preferred marketplace placement and reduced commission. Aligns seller incentives with customer satisfaction outcomes.
+Introduce a seller incentive tied to Express delivery share — sellers maintaining 30%+ Express orders receive preferred marketplace placement and reduced commission rates.
 
 | Recommendation | Area | Expected Outcome |
 |---------------|------|-----------------|
@@ -143,6 +147,8 @@ Express delivery achieves 4.41 review scores vs 3.01 for Very Slow. Introduce a 
 | Freight Optimisation | Christmas, Electronics, Food | 8-12% conversion uplift |
 | At Risk Intervention | 4 sellers | Brand risk elimination |
 | Express Incentive | All sellers | Marketplace score 4.16 to 4.25+ |
+
+> For detailed findings behind each recommendation: [insights_report.md](insights_report.md)
 
 ---
 
